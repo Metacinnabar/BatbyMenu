@@ -1,0 +1,12 @@
+White Main Menu serves as a tool for people to give concepts to tModLoader's main menu. This way, with the transparent UI, you can easily edit screenshots because there isnt some colorful background that obstucts your bucket fill or drag tools. The white background can instantly be turned off at any time via the mod's config. This mkd does not affect gameplay and switches the backgrounds when going ingame.
+
+This mod was requested by Batby, and coded by GoodPro712
+
+Discord:  https://discord.gg/VrxSx4B
+Forum: https://forums.terraria.org/index.php?threads/white-main-menu.85142/
+Github: Coming soon
+
+Todo:
+Draw over the text in the bottom left corner
+
+My Other Mods: http://javid.ddns.net/tModLoader/tools/ranksbysteamid.php?steamid64=76561198422040054
