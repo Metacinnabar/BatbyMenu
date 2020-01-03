@@ -1,4 +1,4 @@
 displayName = White Main Menu
 author = GoodPro712
-version = 1.0
+version = 1.2
 homepage = https://forums.terraria.org/index.php?threads/white-main-menu.85142/
