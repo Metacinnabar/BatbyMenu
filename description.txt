@@ -4,7 +4,7 @@ This mod was requested by Batby, and coded by GoodPro712
 
 Discord:  https://discord.gg/VrxSx4B
 Forum: https://forums.terraria.org/index.php?threads/white-main-menu.85142/
-Github: Coming soon
+Github: https://github.com/GoodPro712/BatbyMenu/
 
 Todo:
 Draw over the text in the bottom left corner
